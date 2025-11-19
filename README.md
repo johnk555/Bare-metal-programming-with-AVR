@@ -1,4 +1,4 @@
-#This repository contains code for using DHT22, LCD Display, Keyboard, Rotatory Encoder and a Potentiometer in atmega2560.
+This repository contains code for using DHT22, LCD Display, Keyboard, Rotatory Encoder and a Potentiometer in atmega2560.
 Usages:
 DHT prints to the LCD the temperature and the humidity of the room
 What I type on the keyboard is printed on the LCD
